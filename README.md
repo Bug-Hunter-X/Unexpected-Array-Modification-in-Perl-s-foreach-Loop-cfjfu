@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl's foreach loop. The bug occurs when using a variable inside the loop that modifies the original array.  The solution shows how to correctly iterate over an array without modifying it during iteration.  The bug is subtle and might not be immediately apparent to less experienced Perl programmers.
